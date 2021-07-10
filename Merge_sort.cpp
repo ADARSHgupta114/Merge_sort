@@ -1,3 +1,10 @@
+// Coding solution for MAR
+//NAME:-ADARSH GUPTA
+//UNIVERSITY ROLL NO.:-16901619069
+//DEPARTMENT:-ELECTRICAL
+//YEAR:-2nd
+
+//PROBLEM:-Merge_sort
 #include <iostream>
 using namespace std;
 void merge(int array[], int const left, int const mid, int const right)
